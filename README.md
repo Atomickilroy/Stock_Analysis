@@ -21,7 +21,7 @@ The purpose of this project was for me to begin learning the intricacies of the 
 
     This project allowed me to also begin learning how to creativitly problem solve using code. 
 
-[Skill Drill](https://gist.github.com/Atomickilroy/387265c1f95a7eab07414ef4a95e99eb)
+![Skill Drill](https://gist.github.com/Atomickilroy/387265c1f95a7eab07414ef4a95e99eb)
 <br>
 
 ## Results
