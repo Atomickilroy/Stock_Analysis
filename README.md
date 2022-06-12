@@ -14,14 +14,16 @@ The purpose of this project was for me to begin learning the intricacies of the 
 - Data Types/ Variables
 - Syntax 
 
-    This project allowed me to also begin learning how to creativitly problem solve using code. 
+This project allowed me to also begin learning how to creativitly problem solve using code. 
 
 ### Results
 
  
 
-!.[VBA_Challenge_2018.png]https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2018.png
+!.[VBA_Challenge_2018.png](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2018.png)
 
-!.[VBA_Challenge_2017.png]https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2017.png
-
+!.[VBA_Challenge_2017.png](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2017.png)
 ### Summary
+
+- There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
