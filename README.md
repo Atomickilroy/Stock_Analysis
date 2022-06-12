@@ -20,6 +20,8 @@ The purpose of this project was for me to begin learning the intricacies of the 
 - Refactoring
 
     This project allowed me to also begin learning how to creativitly problem solve using code. 
+
+[Skill Drill](https://gist.github.com/Atomickilroy/387265c1f95a7eab07414ef4a95e99eb)
 <br>
 
 ## Results
@@ -48,23 +50,3 @@ Through refactoring the code was not only condensed but allowed for faster proce
 
 
 One disadvantage to the refactoing is all though the code was inessance better, it did take additional "manhours" to do so. For this project the orginal macro would have satisfied for the clients needs.
-
-
-
-### Intital Timer - "All Stock Analysis " Macro
-<br>
-
-![Inital Timer](https://github.com/Atomickilroy/Stock_Analysis/blob/main/Inital%20Timer.png)
- 
-### Intital Timer - "All Stock Analysis " Macro
- <br>
-
-![VBA_Challenge_2018.png](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2018.png)
-
-
-### Intital Timer - "All Stock Analysis Ref " Macro  
-
-![VBA_Challenge_2017.png](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2017.png)
-
-
-One disadvantage to the refactoing is all though the code was inessance better, it did take additional time to do so. For this project the macro would have satisfied for the clients needs.
