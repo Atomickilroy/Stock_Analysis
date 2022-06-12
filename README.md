@@ -31,6 +31,26 @@ Incomparison to the others this inital marco doesnt seem to be that much slower 
 Through refactoring the code was not only condensed but allowed for faster processing.
 
 
+### Intital Timer 2018 - "All Stock Analysis " Macro
+<br>
+
+![Inital Timer](https://github.com/Atomickilroy/Stock_Analysis/blob/main/Inital%20Timer.png)
+ 
+### Refactored 2018 - "All Stock Analysis Refactor " Macro
+ <br>
+
+![VBA_Challenge_2018.png](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2018.png)
+
+
+### Refactored 2017 - "All Stock Analysis Refactor " Macro  
+
+![VBA_Challenge_2017.png](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2017.png)
+
+
+One disadvantage to the refactoing is all though the code was inessance better, it did take additional "manhours" to do so. For this project the orginal macro would have satisfied for the clients needs.
+
+
+
 ### Intital Timer - "All Stock Analysis " Macro
 <br>
 
