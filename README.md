@@ -20,9 +20,10 @@ This project allowed me to also begin learning how to creativitly problem solve 
 
  
 
-!.[VBA_Challenge_2018](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2018.png)
+!.[VBA_Challenge_2018](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2018.png)"
 
-!.[VBA_Challenge_2017](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2017.png)
+
+!.[VBA_Challenge_2017](https://github.com/Atomickilroy/Stock_Analysis/blob/main/VBA_Challenge_2017.png)"
 
 ### Summary
 
